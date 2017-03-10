@@ -1,0 +1,7 @@
+rest\ApplicationConfig.class
+entity\Person.class
+control\IPersonFacade.class
+control\JSONConverter.class
+entity\Person_.class
+rest\PersonResource.class
+control\Facade.class
